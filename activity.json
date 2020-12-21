@@ -1,0 +1,341 @@
+{
+    "questionlist": [{
+            "cardfront": "健身房",
+            "cardback": "GYM"
+        },
+        {
+            "cardfront": "菲律宾",
+            "cardback": "Philippines"
+        },
+        {
+            "cardfront": "骑车",
+            "cardback": "to cycle"
+        },
+        {
+            "cardfront": "晴天",
+            "cardback": "sunny day"
+        },
+        {
+            "cardfront": "健康",
+            "cardback": "health,healthy"
+        },
+        {
+            "cardfront": "锻炼",
+            "cardback": "to work out"
+        },
+        {
+            "cardfront": "放",
+            "cardback": "to put"
+        },
+        {
+            "cardfront": "影响",
+            "cardback": "influence"
+        },
+        {
+            "cardfront": "口渴",
+            "cardback": "thirsty"
+        },
+        {
+            "cardfront": "宾馆",
+            "cardback": "guesthouse"
+        },
+        {
+            "cardfront": "旧",
+            "cardback": "old/former"
+        },
+        {
+            "cardfront": "教室",
+            "cardback": "classroom"
+        },
+        {
+            "cardfront": "丈夫",
+            "cardback": "husband"
+        },
+        {
+            "cardfront": "校长",
+            "cardback": "headmaster"
+        },
+        {
+            "cardfront": "多次",
+            "cardback": "repeatedly"
+        },
+        {
+            "cardfront": "遇到",
+            "cardback": "to run into"
+        },
+        {
+            "cardfront": "词语",
+            "cardback": "a word"
+        },
+        {
+            "cardfront": "铅笔",
+            "cardback": "a pencil"
+        },
+        {
+            "cardfront": "旁边",
+            "cardback": "to the side"
+        },
+        {
+            "cardfront": "决定",
+            "cardback": "to decide"
+        },
+        {
+            "cardfront": "阴",
+            "cardback": "overcast"
+        },
+        {
+            "cardfront": "怕",
+            "cardback": "to fear"
+        },
+        {
+            "cardfront": "字典",
+            "cardback": "Chinese vocabulary"
+        },
+        {
+            "cardfront": "提高",
+            "cardback": "to improve"
+        },
+        {
+            "cardfront": "洗碗",
+            "cardback": "wash the dishes"
+        },
+        {
+            "cardfront": "清楚",
+            "cardback": "clear"
+        },
+        {
+            "cardfront": "黑板",
+            "cardback": "blackboard"
+        },
+        {
+            "cardfront": "结婚",
+            "cardback": "to marry"
+        },
+        {
+            "cardfront": "努力",
+            "cardback": "to try hard"
+        },
+        {
+            "cardfront": "练习",
+            "cardback": "to practice"
+        },
+        {
+            "cardfront": "总是",
+            "cardback": "always"
+        },
+        {
+            "cardfront": "满意",
+            "cardback": "satisfied"
+        },
+        {
+            "cardfront": "其实",
+            "cardback": "actually"
+        },
+        {
+            "cardfront": "主",
+            "cardback": "host"
+        },
+        {
+            "cardfront": "介绍",
+            "cardback": "to introduce"
+        },
+        {
+            "cardfront": "表演",
+            "cardback": "a show"
+        },
+        {
+            "cardfront": "节目",
+            "cardback": "program"
+        },
+        {
+            "cardfront": "刻",
+            "cardback": "quarter(time)"
+        },
+        {
+            "cardfront": "裤子",
+            "cardback": "trousers"
+        },
+        {
+            "cardfront": "放",
+            "cardback": "10 cents"
+        },
+        {
+            "cardfront": "被",
+            "cardback": "by (passive voice)"
+        },
+        {
+            "cardfront": "办法",
+            "cardback": "method/way"
+        },
+        {
+            "cardfront": "解决",
+            "cardback": "to solve"
+        },
+        {
+            "cardfront": "根据",
+            "cardback": "according to"
+        },
+        {
+            "cardfront": "刮风",
+            "cardback": "to be windy"
+        },
+        {
+            "cardfront": "愿意",
+            "cardback": "to wish"
+        },
+        {
+            "cardfront": "附近",
+            "cardback": "nearby"
+        },
+        {
+            "cardfront": "注意",
+            "cardback": "to pay attention to"
+        },
+        {
+            "cardfront": "段",
+            "cardback": "paragraph"
+        },
+        {
+            "cardfront": "表示",
+            "cardback": "to express"
+        },
+        {
+            "cardfront": "理解",
+            "cardback": "to find out"
+        },
+        {
+            "cardfront": "变化",
+            "cardback": "to change"
+        },
+        {
+            "cardfront": "热情",
+            "cardback": "passionate"
+        },
+        {
+            "cardfront": "行礼箱",
+            "cardback": "suitcase"
+        },
+        {
+            "cardfront": "收入",
+            "cardback": "income"
+        },
+        {
+            "cardfront": "麻烦",
+            "cardback": "inconvenient"
+        },
+        {
+            "cardfront": "即使",
+            "cardback": "even if"
+        },
+        {
+            "cardfront": "菠菜",
+            "cardback": "spinach"
+        },
+        {
+            "cardfront": "莳萝",
+            "cardback": "dill"
+        },
+        {
+            "cardfront": "躺",
+            "cardback": "to lie down"
+        },
+        {
+            "cardfront": "全部",
+            "cardback": "entire/whole"
+        },
+        {
+            "cardfront": "放假",
+            "cardback": "to have a holiday"
+        },
+        {
+            "cardfront": "放学",
+            "cardback": "to dismiss students"
+        },
+        {
+            "cardfront": "放学后",
+            "cardback": "after school"
+        },
+        {
+            "cardfront": "放血",
+            "cardback": "to let blood"
+        },
+        {
+            "cardfront": "放屁",
+            "cardback": "to fart"
+        },
+        {
+            "cardfront": "填写",
+            "cardback": "to fill in the form"
+        },
+        {
+            "cardfront": "时装模特",
+            "cardback": "fashion model"
+        },
+        {
+            "cardfront": "羽绒服",
+            "cardback": "down-filled garment"
+        },
+        {
+            "cardfront": "举行",
+            "cardback": "to hold(a meeting)"
+        },
+        {
+            "cardfront": "敢",
+            "cardback": "to dare"
+        },
+        {
+            "cardfront": "擦",
+            "cardback": "to wipe"
+        },
+        {
+            "cardfront": "地板",
+            "cardback": "floor"
+        },
+        {
+            "cardfront": "拔罐",
+            "cardback": "cupping(ChM)"
+        },
+        {
+            "cardfront": "三文鱼",
+            "cardback": "salmon"
+        },
+        {
+            "cardfront": "针灸",
+            "cardback": "acupuncture"
+        },
+        {
+            "cardfront": "疗法",
+            "cardback": "therapy"
+        },
+        {
+            "cardfront": "胃灼热",
+            "cardback": "heartburn/pyrosis"
+        },
+        {
+            "cardfront": "估计",
+            "cardback": "to estimate"
+        },
+        {
+            "cardfront": "刺激",
+            "cardback": "to provoke"
+        },
+        {
+            "cardfront": "荞麦",
+            "cardback": "buckwheat"
+        },
+        {
+            "cardfront": "厚",
+            "cardback": "thick"
+        },
+        {
+            "cardfront": "睫毛",
+            "cardback": "eyelashes"
+        },
+        {
+            "cardfront": "化妆",
+            "cardback": "to put on makeup"
+        }
+
+
+    ]
+}
